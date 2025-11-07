@@ -11,7 +11,7 @@ A clean, slicer-driven dashboard that reveals:
 
 🔍 Region-based filtering for instant insights
 
-🔗 [View Full Sales Dashboard Project](https://github.com/VASUJ_EXCEL/SalesDashboard_pivot)
+🔗 [View Full Sales Dashboard Project](https://github.com/Vasu20-DataPrograming/VASU_EXCEL/tree/main/SalesDashBoard_pivot)
 
 
 
