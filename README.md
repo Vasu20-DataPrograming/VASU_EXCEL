@@ -11,6 +11,7 @@ A clean, slicer-driven dashboard that reveals:
 
 🔍 Region-based filtering for instant insights
 
-🔗 [View Full Sales Dashboard Project](SalesDashboard_pivot/)
+🔗 [📂 Open Sales Dashboard (.xlsm)](Sales-Dashboard.xlsm)
+
 
 ---
