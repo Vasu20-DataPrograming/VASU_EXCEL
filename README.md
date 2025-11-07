@@ -11,7 +11,8 @@ A clean, slicer-driven dashboard that reveals:
 
 🔍 Region-based filtering for instant insights
 
-🔗 [📂 Open Sales Dashboard (.xlsm)](Sales-Dashboard.xlsm)
+🔗 [View Full Sales Dashboard Project](https://github.com/VASUJ_EXCEL/SalesDashboard_pivot)
+
 
 
 ---
